@@ -1,0 +1,24 @@
+{
+  "name": "http-node",
+  "version": "1.0.0",
+  "description": "Utiliser le package http de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwana24/http-node.git"
+  },
+  "author": "Johanna Detrieux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jwana24/http-node/issues"
+  },
+  "homepage": "https://github.com/Jwana24/http-node#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http": "0.0.1-security"
+  }
+}
